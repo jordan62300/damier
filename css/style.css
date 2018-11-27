@@ -1,0 +1,11 @@
+div {
+width:200px;
+ height:200px;
+ float:left;
+}
+
+#echec {
+  width:1600px;
+      height:1600px;
+      border:1px solid black;
+}
